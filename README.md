@@ -9,7 +9,7 @@
 
 
 **DISCLAIMER:**  
-This is just my own ThinkPad T480s OpenCore EFI
+This OpenCore EFI works fine on my Thinkpad T480s.
 I am not responsible for any damages you may cause.  
 Should you find an error or improve anything — whether in the config or in the documentation — please consider opening an issue or pull request.
 
