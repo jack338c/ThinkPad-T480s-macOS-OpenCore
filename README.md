@@ -1,4 +1,4 @@
-# Lenovo ThinkPad T480s - OpenCore Configuation
+# Lenovo ThinkPad T480s - OpenCore Configuration
 
 <img align="right" src="/Images/t480s-monterey.png" alt="macOS Monterey running on the T440p" width="425">
 
