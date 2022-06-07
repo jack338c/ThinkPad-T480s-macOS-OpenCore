@@ -37,7 +37,7 @@ Should you find an error or improve anything — whether in the config or in the
 | Software  | Version                                                       |
 | --------- | --------------------------------------------------------------|
 | [MacOS](https://www.apple.com/macos/)                            | 12.4   |
-| [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases)  | 0.6.6  |
+| [OpenCore](https://github.com/acidanthera/OpenCorePkg/releases)  | 0.8.0  |
 
 &nbsp;
 
