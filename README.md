@@ -61,6 +61,8 @@ Should you find an error or improve anything — whether in the config or in the
 - [X] Handoff / Universal Clipboard
 - [X] SIP / FireVault 2
 - [X] USB-C
+- [X] Thunderbolt 3
+
 
 </details>
 
@@ -71,7 +73,6 @@ Should you find an error or improve anything — whether in the config or in the
 - [ ] Safari DRM ```Use Chromium powered Browser or Firefox to watch Amazon Prime Video, Netflix, Disney+ and others```
 - [ ] AirDrop & Continuity
 - [ ] Fingerprint Reader (Disabled with NoTouchID kext)
-- [ ] Thunderbolt 3
 
 </details>
 
